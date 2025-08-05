@@ -1,17 +1,20 @@
 # squidwardyell
 Pump It Up Tournament Builder/Leaderboard Web App
 
-## Planned Features as of 08/04/25
-
-### Tech Stack
+## Tech Stack
   - Backend Hosting: Supabase
   - Frontend Hosting: Netlify/Vercel (React)
+
+## Planned Features
+
+Features/Considerations to implement as of 08/04/25:
 
 ### ADMIN
   - OAuth login
   - View/Select associated tournaments
   - Create new tournament (gauntlet only for now)
-    - Tourney form: Name/Start Date/End Date
+    - Tourney form:
+      - Name/Start Date/End Date
       - Add/Edit/Remove Players: 
         - Player form: Name
       - Add/Edit/Remove Rounds: 
