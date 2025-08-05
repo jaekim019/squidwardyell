@@ -36,8 +36,8 @@ Pump It Up Tournament Builder/Leaderboard Web App
       - round --> chart --> player --> score value
 
 ### SPECTATOR
-    - View/Select active or past tournaments
-    - View/Select any of a tournaments' rounds
-    - View Leaderboard and progress of scores for that round
-        - Show player name, cumulative score, and expand for individual chart scores
-    - Live updating leaderboard (sockets or Supabase Realtime?)
+  - View/Select active or past tournaments
+  - View/Select any of a tournaments' rounds
+  - View Leaderboard and progress of scores for that round
+    - Show player name, cumulative score, and expand for individual chart scores
+  - Live updating leaderboard (sockets or Supabase Realtime?)
