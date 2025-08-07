@@ -6,11 +6,10 @@ Pump It Up Tournament Builder/Leaderboard Web App
   - Frontend Hosting: Netlify/Vercel (React)
 
 ## Running Locally
-- **Prerequisite:** Install [Node.js](https://nodejs.org/) (LTS version recommended)  
-  _npm comes bundled with Node.js_
+- **Prerequisite:** Install [Node.js](https://nodejs.org/)
 - Clone this repository:
   ```bash
-  git clone https://github.com/your-org/your-repo.git
+  git clone https://github.com/jaekim019/squidwardyell
   ```
 - Install dependencies:
   ```bash
