@@ -5,8 +5,23 @@ Pump It Up Tournament Builder/Leaderboard Web App
   - Backend Hosting: Supabase
   - Frontend Hosting: Netlify/Vercel (React)
 
-## Planned Features
+## Running Locally
+- **Prerequisite:** Install [Node.js](https://nodejs.org/) (LTS version recommended)  
+  _npm comes bundled with Node.js_
+- Clone this repository:
+  ```bash
+  git clone https://github.com/your-org/your-repo.git
+  ```
+- Install dependencies:
+  ```bash
+  npm install
+  ```
+- Run the dev server:
+  ```bash
+  npm run dev
+  ```
 
+## Planned Features
 Features/Considerations to implement as of 08/04/25:
 
 ### ADMIN
