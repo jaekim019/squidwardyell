@@ -1,4 +1,4 @@
-# Env Variables
+# Local secrets
 *.env
 
 # Logs
